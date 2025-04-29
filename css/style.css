@@ -88,7 +88,7 @@ body {
 
 /* About Section */
 .about {
-	background: url("../images/background6.png");
+	background: url("../images/background6.png") center/cover no-repeat;
 	color: white;
 	padding: 40px 150px;
 	margin: 40px 0;
@@ -101,7 +101,7 @@ body {
 
 /* Community Section */
 .community {
-    background: url("../images/background5.png");
+    background: url("../images/background5.png") center/cover no-repeat;
     color: white;
     padding: 40px 150px;
     margin: 40px 0;
@@ -166,7 +166,7 @@ body {
 
 /* Community Section */
 .latest-release {
-    background: url("../images/background3.png");
+    background: url("../images/background3.png") center/cover no-repeat;
     color: white;
     padding: 40px 150px;
     margin: 40px 0;
