@@ -129,9 +129,10 @@ body {
 .discord-icon img {
     width: 300px;
     height: auto;
-    border-radius: 15px;
+    border-radius: 200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border: 2px solid #ffffff;
+    /* border: 5px solid #ffffff; */
+	filter: drop-shadow(0 0 0.80rem black);
     margin-bottom: 20px; /* <-- bigger gap below icon */
 }
 
@@ -197,9 +198,9 @@ body {
 .album-cover img {
     width: 300px;
     height: auto;
-    border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border: 2px solid #ffffff;
+    /* border: 5px solid #ffffff; */
+	filter: drop-shadow(0 0 0.80rem black);
     margin-bottom: 20px; /* <-- bigger gap below icon */
 }
 
