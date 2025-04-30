@@ -30,6 +30,11 @@ body {
     height: auto;
 }
 
+.navbar .shop-logo img {
+    width: 100px;
+    height: auto;
+}
+
 .nav-links {
     display: flex;
     gap: 20px;
